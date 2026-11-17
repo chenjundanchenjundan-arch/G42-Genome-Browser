@@ -1,0 +1,28 @@
+# Local genome datasets
+*.fasta
+*.fa
+*.fna
+*.gff
+*.gff3
+*.fa.gz
+*.fasta.gz
+*.gff3.gz
+*.tsv
+
+# BLAST databases and executables
+data/
+ncbi-blast-*/
+*.tar.gz
+
+# Local temporary files
+backup/
+logs/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+
+# Local environment
+.venv/
+venv/
+.env
