@@ -1,0 +1,5 @@
+streamlit==1.65.0
+pandas==2.2.3
+biopython==1.88
+plotly==6.0.1
+pyfaidx==0.9.0.4
